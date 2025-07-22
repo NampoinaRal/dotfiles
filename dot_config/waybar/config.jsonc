@@ -95,7 +95,8 @@
         }
     },
     "tray": {
-        "spacing": 10,
+        "icon-size": 13,
+        "spacing": 20,
         "icons": {
            "blueman": "bluetooth",
            "nm-applet": "wireless"
