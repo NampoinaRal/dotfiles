@@ -1,0 +1,25 @@
+window {
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 15px;
+}
+
+#input {
+    margin: 5px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+#inner-box {
+    margin: 5px;
+}
+
+#outer-box {
+    margin: 5px;
+}
+
+#scroll {
+    margin: 5px;
+}
+
+#text {
+    margin: 5px;
+}

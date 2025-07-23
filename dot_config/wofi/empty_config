@@ -1,0 +1,8 @@
+show=drun
+prompt=Quoi lancer ?
+allow_images=true
+allow_markup=true
+parse_search=true
+no_actions=true
+single_click=true
+order=alphabetical
