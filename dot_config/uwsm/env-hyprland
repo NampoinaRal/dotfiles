@@ -1,1 +1,2 @@
-export HYPRCURSOR_SIZE=24
+export HYPRCURSOR_SIZE=42
+export HYPRCURSOR_THEME=volantes
