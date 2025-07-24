@@ -1,7 +1,7 @@
 // -*- mode: jsonc -*-
 //waybat configuration file
 {
-    "spacing": 10, // Gaps between modules (4px)
+    "spacing": 10,
     "reload_style_on_change": true,
     "modules-left": [
         "tray"
@@ -85,7 +85,7 @@
             "class<nwg-look>": " ",
             "class<[Pp]avucontrol|org.pulseaudio.pavucontrol>": "󱡫 ",
             "class<steam>": " ",
-            "class<thunar|nemo>": "󰝰 ",
+            "class<thunar|nemo|nautilus>": "󰝰 ",
             "class<Gparted>": "",
             "class<gimp>": " ",
             "class<emulator>": "📱 ",
@@ -93,6 +93,7 @@
             "class<org.pipewire.Helvum>": "󰓃",
             "class<localsend>": "",
             "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛",
+            "class<heroic>":"󰖺"
         }
     },
     "tray": {
@@ -113,7 +114,6 @@
             "warning": 30,
             "critical": 15
         },
-        "full-at": 80,
         "format": "{capacity}% {icon}",
         "format-full": "{capacity}% {icon}",
         "format-charging": "{capacity}% 󰂄",
