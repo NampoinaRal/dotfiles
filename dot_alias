@@ -1,0 +1,4 @@
+alias ls='ls --color=auto -h'
+alias grep='grep --color=auto'
+alias config='chezmoi edit  --watch'
+alias ssh='kitty +kitten ssh'
