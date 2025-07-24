@@ -26,6 +26,7 @@
         "window-rewrite-default": " ",
         "window-rewrite": {
             "title<.*amazon.*>": " ",
+            "class<.*vivaldi.*>": "󰖟 ",
             "class<firefox|org.mozilla.firefox|librewolf|floorp|mercury-browser|[Cc]achy-browser>": " ",
             "class<zen>": "󰰷 ",
             "class<waterfox|waterfox-bin>": " ",
