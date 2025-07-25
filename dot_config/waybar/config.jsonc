@@ -89,19 +89,19 @@
             "class<Gparted>": "",
             "class<gimp>": " ",
             "class<emulator>": "📱 ",
-            "class<android-studio>": " ",
+            "class<android-studio|Waydroid>": " ",
             "class<org.pipewire.Helvum>": "󰓃",
             "class<localsend>": "",
             "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛",
-            "class<heroic>":"󰖺"
+            "class<heroic>": "󰖺"
         }
     },
     "tray": {
         "icon-size": 13,
         "spacing": 20,
         "icons": {
-           "blueman": "bluetooth",
-           "nm-applet": "wireless"
+            "blueman": "bluetooth",
+            "nm-applet": "wireless"
         }
     },
     "clock": {
