@@ -20,7 +20,7 @@ window#waybar {
     margin-left: 10px;
 }
 
-#power-profiles-daemon{
+#power-profiles-daemon, #pulseaudio {
     padding-right:5px;
 }
 
