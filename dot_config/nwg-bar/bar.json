@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Verrouiller",
+        "exec": "loginctl lock-session",
+        "icon": "/usr/share/nwg-bar/images/system-lock-screen.svg"
+    },
+    {
+        "label": "Déconnexion",
+        "exec": "hyprctl dispatch exit",
+        "icon": "/usr/share/nwg-bar/images/system-log-out.svg"
+    },
+    {
+        "label": "Redémmarer",
+        "exec": "reboot",
+        "icon": "/usr/share/nwg-bar/images/system-reboot.svg"
+    },
+    {
+        "label": "Arrêter",
+        "exec": "poweroff",
+        "icon": "/usr/share/nwg-bar/images/system-shutdown.svg"
+    }
+]
