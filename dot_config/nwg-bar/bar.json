@@ -6,17 +6,17 @@
     },
     {
         "label": "Déconnexion",
-        "exec": "hyprctl dispatch exit",
+        "exec": "loginctl terminate-session \"$XDG_SESSION_ID\"",
         "icon": "/usr/share/nwg-bar/images/system-log-out.svg"
     },
     {
         "label": "Redémmarer",
-        "exec": "reboot",
+        "exec": "systemctl reboot",
         "icon": "/usr/share/nwg-bar/images/system-reboot.svg"
     },
     {
         "label": "Arrêter",
-        "exec": "poweroff",
+        "exec": "systemctl poweroff",
         "icon": "/usr/share/nwg-bar/images/system-shutdown.svg"
     }
 ]
