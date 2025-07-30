@@ -16,18 +16,20 @@ window#waybar {
     margin: 0 10px;
 }
 
-#battery, #power-profiles-daemon {
+#battery,
+#power-profiles-daemon {
     margin-left: 10px;
 }
 
-#power-profiles-daemon, #pulseaudio {
-    padding-right:5px;
+#power-profiles-daemon,
+#pulseaudio {
+    padding-right: 5px;
 }
 
-#workspaces .active{
+#workspaces .active {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-#tray{
-    margin-left:10px
+#tray {
+    margin-left: 10px
 }

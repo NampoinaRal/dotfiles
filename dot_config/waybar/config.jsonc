@@ -1,5 +1,5 @@
 // -*- mode: jsonc -*-
-//waybat configuration file
+//waybar configuration file
 {
     "spacing": 10,
     "reload_style_on_change": true,
@@ -92,8 +92,9 @@
             "class<android-studio|Waydroid>": " ",
             "class<org.pipewire.Helvum>": "󰓃",
             "class<localsend>": "",
-            "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛",
-            "class<heroic>": "󰖺"
+            "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛 ",
+            "class<heroic>": "󰖺 ",
+            "class<org.inkscape.Inkscape>": "\uf33b "
         }
     },
     "tray": {
